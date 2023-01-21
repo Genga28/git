@@ -2,10 +2,11 @@
 
 Adding files from local machine
 
-# first step is to create public repository
+# Steps
+- first step is to create public repository
 
-# next we have to add the file
+- next we have to add the file
 
-# commit the file -- with commit command
+- commit the file -- with commit command
 
-# Push it into Git
+- Push it into Git
